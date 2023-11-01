@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "928051380174",
+    "firebase_url": "https://space-shuttle-b0738-default-rtdb.firebaseio.com",
+    "project_id": "space-shuttle-b0738",
+    "storage_bucket": "space-shuttle-b0738.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928051380174:android:f34da57d0a254710f5759f",
+        "android_client_info": {
+          "package_name": "com.spaceshuttleadmin.space_shuttle_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928051380174-qpt5lenqon41bublb1m8pliit2eln6nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFge5yK-u9hWuX7qG2SaLoNj6vDyMCAjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928051380174-qpt5lenqon41bublb1m8pliit2eln6nn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "928051380174-mifqna214ckmmc4fqnv2rtf4aih9hlhp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spaceshuttleparking.spaceShuttleMobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928051380174:android:2a27488248273d68f5759f",
+        "android_client_info": {
+          "package_name": "com.spaceshuttleparking.space_shuttle_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928051380174-qpt5lenqon41bublb1m8pliit2eln6nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFge5yK-u9hWuX7qG2SaLoNj6vDyMCAjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928051380174-qpt5lenqon41bublb1m8pliit2eln6nn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "928051380174-mifqna214ckmmc4fqnv2rtf4aih9hlhp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spaceshuttleparking.spaceShuttleMobile"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928051380174:android:f8e6025e68521f46f5759f",
+        "android_client_info": {
+          "package_name": "com.spaceshuttleparking.space_shuttle_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928051380174-r6rg1nndriplqqj96slice19n9eco9at.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spaceshuttleparking.space_shuttle_mobile",
+            "certificate_hash": "390d10cedab7c6c3a10e4b1ab35caf3f405d75db"
+          }
+        },
+        {
+          "client_id": "928051380174-qpt5lenqon41bublb1m8pliit2eln6nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFge5yK-u9hWuX7qG2SaLoNj6vDyMCAjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928051380174-qpt5lenqon41bublb1m8pliit2eln6nn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "928051380174-mifqna214ckmmc4fqnv2rtf4aih9hlhp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spaceshuttleparking.spaceShuttleMobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
