@@ -7,7 +7,7 @@ import 'firebase_options.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
-  // Loading Env File
+  // Loading Env F ile
   // await dotenv.load(fileName: './lib/.env');
 
   if (Firebase.apps.isEmpty) {
